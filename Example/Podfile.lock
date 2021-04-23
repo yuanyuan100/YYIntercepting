@@ -1,0 +1,16 @@
+PODS:
+  - YYIntercepting (0.1.0)
+
+DEPENDENCIES:
+  - YYIntercepting (from `../`)
+
+EXTERNAL SOURCES:
+  YYIntercepting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYIntercepting: d927c77a8dc15b37114cdfe16256782791451ede
+
+PODFILE CHECKSUM: 869a679e6985b7deb2f6d298429bb2875b88c2d8
+
+COCOAPODS: 1.8.4
